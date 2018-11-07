@@ -1,4 +1,5 @@
 # Code by Vineet Kumar Doshi from HackerRank
+# https://www.hackerrank.com/challenges/nested-list/editorial
 
 if __name__ == '__main__':
     score_list = {}
